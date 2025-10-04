@@ -1,5 +1,7 @@
 Limpieza de Datos: Salud y Estilo de Vida del Sueño
+
 Visión General del Proyecto
+
 Este proyecto documenta el proceso completo de Limpieza y Estandarización de Datos (Data Wrangling) aplicado al dataset Sleep_health_and_lifestyle_dataset.csv.
 
 El objetivo principal es transformar un conjunto de datos crudo con inconsistencias, duplicados y valores atípicos en una fuente de información limpia, coherente y lista para el Análisis Exploratorio de Datos (EDA) y la modelización posterior.
